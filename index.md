@@ -4,7 +4,7 @@ title: About
 ---
 
 <div style="text-align: right;">
-  <a href="publications.html">Publications</a> |
+  <a href="research.html">Research</a> |
   <a href="art.html">Art</a>
 </div>
 
