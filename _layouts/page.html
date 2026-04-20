@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    .wrapper {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    nav {
+      text-align: right;
+      margin-bottom: 30px;
+    }
+    nav a {
+      margin-left: 15px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<div class="wrapper">
+  <nav>
+    <a href="/">About</a>
+    <a href="/research/">Research</a>
+    <a href="/art/">Art</a>
+  </nav>
+
+  {{ content }}
+</div>
+
+</body>
+</html>
