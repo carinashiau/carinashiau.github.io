@@ -2,6 +2,11 @@
 layout: default
 title: Publications
 ---
+<div style="text-align: right; margin-bottom: 20px;">
+  <a href="/">About</a> |
+  <a href="/publications.html">Publications</a> |
+  <a href="/art.html">Art</a>
+</div>
 
 ## Publications
 Selected research (See Google Scholar for all publications)
