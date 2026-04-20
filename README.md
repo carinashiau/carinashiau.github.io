@@ -1,3 +1,12 @@
+---
+layout: default
+title: Home
+---
+
+<div style="text-align: right;">
+  <a href="publications.html">Publications</a>
+</div>
+
 ## About
 Hi there! My name is Carina. I'm a third-year medical student at Harvard with an interest in computational genomics and cutaneous oncology.
 
