@@ -2,6 +2,11 @@
 layout: page
 title: Research
 ---
+<div style="text-align: right;">
+  <a href="/">About</a> |
+  <a href="research.html">Research</a> |
+  <a href="art.html">Art</a>
+</div>
 
 ## Publications
 Selected research (See Google Scholar for all publications)
