@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Research
 ---
 <div style="text-align: right; margin-bottom: 20px;">
