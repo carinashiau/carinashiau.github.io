@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 ## Publications
 Selected research (See Google Scholar for all publications)
 
