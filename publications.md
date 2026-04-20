@@ -1,3 +1,8 @@
+---
+layout: default
+title: publications
+---
+
 ## Publications
 Selected research (See Google Scholar for all publications)
 
