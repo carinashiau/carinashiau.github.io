@@ -4,8 +4,8 @@ title: Home
 ---
 
 <div style="text-align: right;">
-  <a href="publications.html">publications</a> |
-  <a href="art.html">art</a>
+  <a href="Publications.html">Publications</a> |
+  <a href="Art.html">Art</a>
 </div>
 
 ## About
