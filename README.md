@@ -1,5 +1,3 @@
-# Carina Shiau
-
 ## About
 Hi there! My name is Carina. I'm a third-year medical student at Harvard with an interest in computational genomics and cutaneous oncology.
 
