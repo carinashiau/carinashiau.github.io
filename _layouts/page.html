@@ -1,27 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="utf-8">
   <title>{{ page.title }}</title>
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
   <style>
     .wrapper {
       max-width: 800px;
       margin: 0 auto;
-      padding: 40px 20px;
+      padding: 50px 20px;
     }
-    
-    .site-title {
-      font-family: inherit;
-      color: inherit;
-      font-size: 28px;
+
+    .name {
+      font-size: 24px;
       font-weight: 600;
-      margin-bottom: 0 0 6px 0;
+      margin-bottom: 5px;
     }
-    
+
     nav {
       text-align: right;
-      margin-bottom: 0 0 28px 0;
+      margin-bottom: 30px;
     }
+
     nav a {
       margin-left: 15px;
       text-decoration: none;
@@ -32,12 +34,12 @@
       text-decoration: underline;
     }
 
-    .content h1 {
-      margin-top: 0;
-    }
-
     .content {
       line-height: 1.6;
+    }
+
+    .content h1 {
+      margin-top: 0;
     }
   </style>
 </head>
@@ -46,14 +48,20 @@
 
 <div class="wrapper">
 
-  <div class="site-title">
-    Carina Shiau
+  <div class="name">
+    {{ site.title }}
   </div>
-  
-  <div class="nav">
+
+  <nav>
+    <a href="/">About</a> |
+    <a href="/research.html">Research</a> |
+    <a href="/art.html">Art</a>
+  </nav>
+
+  <div class="content">
     {{ content }}
   </div>
-  
+
 </div>
 
 </body>
