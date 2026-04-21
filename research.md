@@ -68,10 +68,18 @@ Hwang WL, Jagadeesh KA, Guo JA, Hoffman HI, ..., **Shiau C**, ..., Jacks T & Reg
 
 
 ## Patent
-Hwang WL, Guo JA, Aguirre A, Jacks T, Su J & Shiau C. Treatment and detection of cancers having a neural-like progenitor, squamoid/basaloid-mesenchymal, or classical phenotype. U.S. Provisional Application No. 63/346,670 (2022).
+#### Treatment and detection of cancers having a neural-like progenitor, squamoid/basaloid-mesenchymal, or classical phenotype
+Hwang WL, Guo JA, Aguirre A, Jacks T, Su J & **Shiau C**\
+*U.S. Provisional Application No. 63/346,670*, 2022
 
 
 ## Book Chapters
-Wang PL, Lester NA, Guo JA, Su J, Shiau C & Hwang WL. Tools and Model Systems to Study Nerve-Cancer Interactions. In book: Cancer Neuroscience, pp. 169-184 (2023). doi: 10.1007/978-3-031-32429-1\_11
+#### Tools and Model Systems to Study Nerve-Cancer Interactions
+Wang PL, Lester NA, Guo JA, Su J, **Shiau C** & Hwang WL\
+*Cancer Neuroscience*, 2023. 
+[View book](https://doi.org/10.1007/978-3-031-32429-1_11)
 
-Huang YL, Shiau C et al. The Architecture of Co-Culture Spheroids Regulates Tumor Invasion Within a 3D Extracellular Matrix. In book: The Physics of Cancer, pp. 197-207 (2020). doi: 10.1142/9789811223495\_0009
+#### The Architecture of Co-Culture Spheroids Regulates Tumor Invasion Within a 3D Extracellular Matrix
+Huang YL, **Shiau C**, Wu C, Segall JE & Wu M\
+*The Physics of Cancer*, 2020\
+[View book](https://doi.org/10.1142/9789811223495_0009)
