@@ -19,12 +19,15 @@ Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ..., Hwang WL & 
 [View paper](https://doi.org/10.1016/j.celrep.2025.116191)
 
 #### Trends in level of service provided by advanced practice clinicians and dermatologists in outpatient setting, 2012–2020
-**Shiau C**, Kim DY, Young PA, Baker A, Ko JM & Bae GH
+**Shiau C**, Kim DY, Young PA, Baker A, Ko JM & Bae GH\
 *Archives of Dermatological Research*, 2025\
 [View paper](https://doi.org/10.1007/s00403-025-04249-0)
 
 ### 2024
-Shiau C, Cao J et al. Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment. Nat Genet 56, 2466–2478 (2024). https://doi.org/10.1038/s41588-024-01890-9
+#### Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment
+**Shiau C**, Cao J, Gong D, Gregory MT, ..., Hemberg M & Hwang WL\
+*Nature Genetics*, 2024
+[View paper](https://doi.org/10.1038/s41588-024-01890-9)
 
 Shiau C et al. Trends in dermatologic procedures performed by dermatologists and advanced practice clinicians among Medicare beneficiaries from 2012 to 2020. JAAD 90, 7 (2024). https://doi.org/10.1016/j.jaad.2023.12.061
 
