@@ -1,0 +1,48 @@
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 60px 30px;
+}
+
+/* Header (name + navbar) */
+.top-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 30px;
+}
+
+.name {
+  font-size: 26px;
+  font-weight: 600;
+  margin: 0;
+}
+
+/* Navbar */
+nav {
+  display: flex;
+  gap: 18px;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Content */
+.content {
+  line-height: 1.6;
+}
+
+.content ul,
+.content ol {
+  padding-left: 20px;
+}
+
+.content li {
+  margin-bottom: 6px;
+}
