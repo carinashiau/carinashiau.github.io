@@ -64,13 +64,13 @@ Bianchi A, Silva I, Deshpande NU, Singh S, ..., **Shiau C**, ..., Datta J\
 #### Single-nucleus and spatial transcriptome profiling of pancreatic cancer identifies multicellular dynamics associated with neoadjuvant treatment
 Hwang WL, Jagadeesh KA, Guo JA, Hoffman HI, ..., **Shiau C**, ..., Jacks T & Regev A\
 *Nature Genetics*, 2022\
-[View paper](https://doi.org/10.1038/s41588-022-01134-8)\
+[View paper](https://doi.org/10.1038/s41588-022-01134-8)
 
 
 ## Patent
 #### Treatment and detection of cancers having a neural-like progenitor, squamoid/basaloid-mesenchymal, or classical phenotype
 Hwang WL, Guo JA, Aguirre A, Jacks T, Su J & **Shiau C**\
-*U.S. Provisional Application No. 63/346,670*, 2022\
+*U.S. Provisional Application No. 63/346,670*, 2022
 
 
 ## Book Chapters
