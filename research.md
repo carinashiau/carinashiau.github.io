@@ -7,7 +7,10 @@ title: Research
 Selected research (See Google Scholar for all publications)
 
 ### 2026
-Shiau C et al. Trends in Medication Prescriptions for Psoriasis Vulgaris, 2005–2019. Arch Dermatol Res 318(1), 91 (2026). https://doi.org/10.1007/s00403-026-04532-8
+#### Trends in Medication Prescriptions for Psoriasis Vulgaris, 2005–2019
+**Shiau C**, Pour Mohammad A, Ye H, Le V & Bae GH
+*Archives of Dermatological Research*, 2026
+[View paper](https://doi.org/10.1007/s00403-026-04532-8)
 
 ### 2025
 Guo JA, ..., Shiau C et al. Integrative genomic identification of therapeutic targets for pancreatic cancer. Cell Reports 44(9), 116191 (2025). https://doi.org/10.1016/j.celrep.2025.116191
