@@ -45,9 +45,15 @@ Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ..., Hwang WL & 
 [View paper](https://doi.org/10.1016/j.amjmed.2024.12.023)
 
 ### 2023
-Cheng Y, ..., Shiau C et al. Co-evolution-based prediction of metal-binding sites in proteomes by machine learning. Nat Chem Biol 19, 548-555 (2023). https://doi.org/10.1038/s41589-022-01223-z
+#### Co-evolution-based prediction of metal-binding sites in proteomes by machine learning
+Cheng Y, Wang H, Xu H, Liu Y, ..., **Shiau C**, Ovchinnikov S, Su XD & Wang C\
+*Nature Chemical Biology*, 2023\
+[View paper](https://doi.org/10.1038/s41589-022-01223-z)
 
-Bianchi A, ..., Shiau C et al. Cell-autonomous Cxcl1 sustains tolerogenic circuitries and stromal inflammation via neutrophil-derived TNF in pancreatic cancer. Cancer Discov 13, 6 (2023). https://doi.org/10.1158/2159-8290.CD-22-1046
+#### Cell-autonomous Cxcl1 sustains tolerogenic circuitries and stromal inflammation via neutrophil-derived TNF in pancreatic cancer
+Bianchi A, Silva I, Deshpande NU, Singh S, ..., **Shiau C**, ..., Datta J\
+Cancer Discovery, 2023\
+[View paper](https://doi.org/10.1158/2159-8290.CD-22-1046)
 
 ### 2022
 Shiau C et al. Treatment-associated remodeling of the pancreatic cancer endothelium at single-cell resolution. Front Oncol 12, 929950 (2022). https://doi.org/10.3389/fonc.2022.929950
