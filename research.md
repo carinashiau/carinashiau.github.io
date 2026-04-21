@@ -52,13 +52,19 @@ Cheng Y, Wang H, Xu H, Liu Y, ..., **Shiau C**, Ovchinnikov S, Su XD & Wang C\
 
 #### Cell-autonomous Cxcl1 sustains tolerogenic circuitries and stromal inflammation via neutrophil-derived TNF in pancreatic cancer
 Bianchi A, Silva I, Deshpande NU, Singh S, ..., **Shiau C**, ..., Datta J\
-Cancer Discovery, 2023\
+*Cancer Discovery*, 2023\
 [View paper](https://doi.org/10.1158/2159-8290.CD-22-1046)
 
 ### 2022
-Shiau C et al. Treatment-associated remodeling of the pancreatic cancer endothelium at single-cell resolution. Front Oncol 12, 929950 (2022). https://doi.org/10.3389/fonc.2022.929950
+#### Treatment-associated remodeling of the pancreatic cancer endothelium at single-cell resolution
+**Shiau C**, Su J, Guo JA, Hong TS, Wo JY, Jagadeesh KA & Hwang WL\
+*Frontiers in Oncology*, 2022\
+[View paper](https://doi.org/10.3389/fonc.2022.929950)
 
-Hwang WL, ..., Shiau C et al. Single-nucleus and spatial transcriptome profiling of pancreatic cancer identifies multicellular dynamics associated with neoadjuvant treatment. Nat Genet 54, 1178-1191 (2022). https://doi.org/10.1038/s41588-022-01134-8
+#### Single-nucleus and spatial transcriptome profiling of pancreatic cancer identifies multicellular dynamics associated with neoadjuvant treatment
+Hwang WL, Jagadeesh KA, Guo JA, Hoffman HI, ..., **Shiau C**, ..., Jacks T & Regev A\
+*Nature Genetics*, 2022\
+[View paper](https://doi.org/10.1038/s41588-022-01134-8)
 
 
 ## Patent
