@@ -67,13 +67,13 @@ Hwang WL, Jagadeesh KA, Guo JA, Hoffman HI, ..., **Shiau C**, ..., Jacks T & Reg
 [View paper](https://doi.org/10.1038/s41588-022-01134-8)
 
 
-## <span class="section-header">Patent</span>
+## Patent
 #### Treatment and detection of cancers having a neural-like progenitor, squamoid/basaloid-mesenchymal, or classical phenotype
 Hwang WL, Guo JA, Aguirre A, Jacks T, Su J & **Shiau C**\
 *U.S. Provisional Application No. 63/346,670*, 2022
 
 
-## <span class="section-header">Book Chapters</span>
+## Book Chapters
 #### Tools and Model Systems to Study Nerve-Cancer Interactions
 Wang PL, Lester NA, Guo JA, Su J, **Shiau C** & Hwang WL\
 *Cancer Neuroscience*, 2023\
