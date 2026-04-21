@@ -41,7 +41,7 @@ Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ..., Hwang WL & 
 
 #### Changes in health care spending by specialty and services for Medicare beneficiaries, 2009-2021
 **Shiau C**, Ko JM & Bae GH\
-*American Journal of Medicine, 2024*
+*American Journal of Medicine, 2024*\
 [View paper](https://doi.org/10.1016/j.amjmed.2024.12.023)
 
 ### 2023
