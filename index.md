@@ -9,7 +9,7 @@ title: About
 </div>
 
 ## About
-Hello! My name is Carina, I'm a third-year medical student at Harvard with an interest in computational genomics and cutaneous oncology.
+Hello! My name is Carina, and I'm a third-year medical student at Harvard with an interest in computational genomics and cutaneous oncology.
 
 I studied biology at Cornell University, where I completed an honors thesis in the Ovchinnikov Lab focused on protein modeling. Prior to medical school, I worked as an associate computational biologist and clinical research coordinator at the Broad Institute and the Massachusetts General Hospital in the Hwang Lab, where I developed computational frameworks to characterize the spatial molecular landscape of untreated and treated pancreatic cancer. 
 
