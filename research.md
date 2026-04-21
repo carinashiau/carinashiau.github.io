@@ -66,17 +66,17 @@ Hwang WL, Jagadeesh KA, Guo JA, Hoffman HI, ..., **Shiau C**, ..., Jacks T & Reg
 *Nature Genetics*, 2022\
 [View paper](https://doi.org/10.1038/s41588-022-01134-8)
 
-
+\
 ## Patent
 #### Treatment and detection of cancers having a neural-like progenitor, squamoid/basaloid-mesenchymal, or classical phenotype
 Hwang WL, Guo JA, Aguirre A, Jacks T, Su J & **Shiau C**\
 *U.S. Provisional Application No. 63/346,670*, 2022
 
-
+\
 ## Book Chapters
 #### Tools and Model Systems to Study Nerve-Cancer Interactions
 Wang PL, Lester NA, Guo JA, Su J, **Shiau C** & Hwang WL\
-*Cancer Neuroscience*, 2023. 
+*Cancer Neuroscience*, 2023\
 [View book](https://doi.org/10.1007/978-3-031-32429-1_11)
 
 #### The Architecture of Co-Culture Spheroids Regulates Tumor Invasion Within a 3D Extracellular Matrix
