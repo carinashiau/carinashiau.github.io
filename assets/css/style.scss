@@ -13,22 +13,3 @@
   margin-top: 4px;
   margin-bottom: 10px;
 }
-
-.top-bar {
-  grid-column: 1 / span 2;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
-  position: sticky;
-  top: 0;
-  background: white;
-  z-index: 1000;
-
-  padding-top: 10px;
-  padding-bottom: 10px;
-
-  margin-bottom: 20px;
-  border-bottom: 1px solid #eee;
-}
