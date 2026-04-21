@@ -8,8 +8,8 @@ Selected research (See Google Scholar for all publications)
 
 ### 2026
 #### Trends in Medication Prescriptions for Psoriasis Vulgaris, 2005–2019
-**Shiau C**, Pour Mohammad A, Ye H, Le V & Bae GH
-*Archives of Dermatological Research*, 2026
+**Shiau C**, Pour Mohammad A, Ye H, Le V & Bae GH\
+*Archives of Dermatological Research*, 2026\
 [View paper](https://doi.org/10.1007/s00403-026-04532-8)
 
 ### 2025
