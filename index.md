@@ -3,11 +3,6 @@ layout: home
 title: About
 ---
 
-<div style="text-align: right;">
-  <a href="research.html">Research</a> |
-  <a href="art.html">Art</a>
-</div>
-
 ## About
 Hello! My name is Carina, and I'm a third-year medical student at Harvard with an interest in computational genomics and cutaneous oncology.
 
