@@ -13,9 +13,15 @@ Selected research (See Google Scholar for all publications)
 [View paper](https://doi.org/10.1007/s00403-026-04532-8)
 
 ### 2025
-Guo JA, ..., Shiau C et al. Integrative genomic identification of therapeutic targets for pancreatic cancer. Cell Reports 44(9), 116191 (2025). https://doi.org/10.1016/j.celrep.2025.116191
+#### Integrative genomic identification of therapeutic targets for pancreatic cancer
+Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ..., Hwang WL & Aguirre AJ\
+*Cell Reports*, 2025\
+[View paper](https://doi.org/10.1016/j.celrep.2025.116191)
 
-Shiau C et al. Trends in level of service provided by advanced practice clinicians and dermatologists in outpatient setting, 2012–2020. Arch Dermatol Res 317, 745 (2025). https://doi.org/10.1007/s00403-025-04249-0
+#### Trends in level of service provided by advanced practice clinicians and dermatologists in outpatient setting, 2012–2020
+**Shiau C**, Kim DY, Young PA, Baker A, Ko JM & Bae GH
+*Archives of Dermatological Research*, 2025\
+[View paper](https://doi.org/10.1007/s00403-025-04249-0)
 
 ### 2024
 Shiau C, Cao J et al. Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment. Nat Genet 56, 2466–2478 (2024). https://doi.org/10.1038/s41588-024-01890-9
