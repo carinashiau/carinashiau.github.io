@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <style>
+    .wrapper {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 50px 20px;
+      display: flex;
+      gap: 50px;
+      align-items: flex-start;
+    }
+
+    .sidebar {
+      width: 200px;
+    }
+
+    .sidebar img {
+      width: 100%;
+      border-radius: 6px;
+    }
+
+    .main {
+      flex: 1;
+    }
+
+    .name {
+      font-size: 28px;
+      font-weight: 600;
+      margin-bottom: 10px;
+    }
+
+    nav {
+      text-align: right;
+      margin-bottom: 30px;
+    }
+
+    nav a {
+      margin-left: 15px;
+      text-decoration: none;
+      color: inherit;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="wrapper">
+
+  <div class="sidebar">
+    <img src="/assets/profile.jpg" alt="profile">
+  </div>
+
+  <div class="main">
+
+    <div class="name">
+      {{ site.title }}
+    </div>
+
+    <nav>
+      <a href="/">Home</a> |
+      <a href="/research.html">Research</a> |
+      <a href="/art.html">Art</a>
+    </nav>
+
+    {{ content }}
+
+  </div>
+
+</div>
+
+</body>
+</html>
