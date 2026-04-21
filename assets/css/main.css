@@ -4,12 +4,12 @@
   padding: 60px 30px;
 }
 
-/* Header (name + navbar) */
+/* Header */
 .top-header {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .name {
@@ -33,9 +33,27 @@ nav a:hover {
   text-decoration: underline;
 }
 
+/* Home layout */
+.home-grid {
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  column-gap: 60px;
+  align-items: start;
+}
+
+.sidebar img {
+  width: 100%;
+  border-radius: 6px;
+}
+
 /* Content */
 .content {
   line-height: 1.6;
+  max-width: 650px;
+}
+
+.content h1 {
+  margin-top: 0;
 }
 
 .content ul,
