@@ -5,59 +5,27 @@
   <title>{{ page.title }}</title>
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
-  <style>
-    .wrapper {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 50px 20px;
-    }
-
-    .name {
-      font-size: 24px;
-      font-weight: 600;
-      margin-bottom: 5px;
-    }
-
-    nav {
-      text-align: right;
-      margin-bottom: 30px;
-    }
-
-    nav a {
-      margin-left: 15px;
-      text-decoration: none;
-      color: inherit;
-    }
-
-    nav a:hover {
-      text-decoration: underline;
-    }
-
-    .content {
-      line-height: 1.6;
-    }
-
-    .content h1 {
-      margin-top: 0;
-    }
-  </style>
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 
 <body>
 
 <div class="wrapper">
 
-  <div class="name">
-    {{ site.title }}
+  <!-- Same header as homepage -->
+  <div class="top-header">
+    <div class="name">
+      {{ site.title }}
+    </div>
+
+    <nav>
+      <a href="/">Home</a>
+      <a href="/research.html">Research</a>
+      <a href="/art.html">Art</a>
+    </nav>
   </div>
 
-  <nav>
-    <a href="/">Home</a> 
-    <a href="/research.html">Research</a> 
-    <a href="/art.html">Art</a>
-  </nav>
-
+  <!-- Page content -->
   <div class="content">
     {{ content }}
   </div>
