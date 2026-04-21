@@ -1,38 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-  <style>
-    .wrapper {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 10px 20px 40px 20px;
-    }
-    nav {
-      text-align: right;
-      margin-bottom: 30px;
-    }
-    nav a {
-      margin-left: 15px;
-      text-decoration: none;
-    }
-  </style>
-</head>
-
-<body>
+---
+layout: default
+---
 
 <div class="wrapper">
 
   <div class="site-title">
     Carina Shiau
   </div>
-  
-  <div class="nav">
-    {{ content }}
-  </div>
-  
-</div>
 
-</body>
-</html>
+  <div class="nav">
+    <a href="/research.html">Research</a> |
+    <a href="/art.html">Art</a>
+  </div>
+
+  {{ content }}
+
+</div>
