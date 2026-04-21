@@ -26,14 +26,23 @@ Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ..., Hwang WL & 
 ### 2024
 #### Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment
 **Shiau C**, Cao J, Gong D, Gregory MT, ..., Hemberg M & Hwang WL\
-*Nature Genetics*, 2024
+*Nature Genetics*, 2024\
 [View paper](https://doi.org/10.1038/s41588-024-01890-9)
 
-Shiau C et al. Trends in dermatologic procedures performed by dermatologists and advanced practice clinicians among Medicare beneficiaries from 2012 to 2020. JAAD 90, 7 (2024). https://doi.org/10.1016/j.jaad.2023.12.061
+#### Trends in dermatologic procedures performed by dermatologists and advanced practice clinicians among Medicare beneficiaries from 2012 to 2020
+**Shiau C**, Kim DY, Young PA, Baker A & Bae GH\
+*Journal of the American Academy of Dermatology*, 2024\
+[View paper](https://doi.org/10.1016/j.jaad.2023.12.061)
 
-Shiau C et al. Response to “Numbers of nail procedures performed by physician assistants and nurse practitioners among Medicare beneficiaries increased 2013-2021”. JAAD (2024). https://doi.org/10.1016/j.jaad.2024.04.081
+#### Response to “Numbers of nail procedures performed by physician assistants and nurse practitioners among Medicare beneficiaries increased 2013-2021”
+**Shiau C**, Kim DY, Young PA, Baker A & Bae GH\
+*Journal of the American Academy of Dermatology*, 2024\
+[View paper](https://doi.org/10.1016/j.jaad.2024.04.081)
 
-Shiau C et al. Changes in health care spending by specialty and services for Medicare beneficiaries, 2009-2021. Am J Med (2024). https://doi.org/10.1016/j.amjmed.2024.12.023
+#### Changes in health care spending by specialty and services for Medicare beneficiaries, 2009-2021
+**Shiau C**, Ko JM & Bae GH\
+*American Journal of Medicine, 2024*
+[View paper](https://doi.org/10.1016/j.amjmed.2024.12.023)
 
 ### 2023
 Cheng Y, ..., Shiau C et al. Co-evolution-based prediction of metal-binding sites in proteomes by machine learning. Nat Chem Biol 19, 548-555 (2023). https://doi.org/10.1038/s41589-022-01223-z
