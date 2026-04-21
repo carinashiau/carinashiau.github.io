@@ -8,42 +8,61 @@
 
   <style>
     .wrapper {
-      max-width: 900px;
+      max-width: 1000px;
       margin: 0 auto;
-      padding: 50px 20px;
+      padding: 60px 30px;
+
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      grid-template-rows: auto 1fr;
+      column-gap: 60px;
+      row-gap: 20px;
+      align-items: start;
     }
 
-    .sidebar {
-      text-align: center;
-      margin-bottom: 25px;
-    }
-
-    .sidebar img {
-      width: 280px;   /* increase size here */
-      max-width: 100%;
-      border-radius: 8px;
-    }
-
-    .main {
-      flex: 1;
-    }
-
+    /* TOP LEFT: NAME */
     .name {
-      font-size: 32px;
+      grid-column: 1;
+      grid-row: 1;
+      font-size: 26px;
       font-weight: 600;
-      margin-bottom: 20px;
-      text-align: center;
     }
 
+    /* TOP RIGHT: NAV */
     nav {
-      text-align: right;
-      margin-bottom: 30px;
+      grid-column: 2;
+      grid-row: 1;
+      justify-self: end;
     }
 
     nav a {
       margin-left: 15px;
       text-decoration: none;
       color: inherit;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    /* BOTTOM LEFT: PHOTO */
+    .sidebar {
+      grid-column: 1;
+      grid-row: 2;
+    }
+
+    .sidebar img {
+      width: 100%;
+      border-radius: 6px;
+      box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+    }
+
+    /* BOTTOM RIGHT: CONTENT */
+    .content {
+      grid-column: 2;
+      grid-row: 2;
+      line-height: 1.6;
+      max-width: 650px;
     }
   </style>
 </head>
@@ -52,28 +71,22 @@
 
 <div class="wrapper">
 
+  <div class="name">
+    {{ site.title }}
+  </div>
+
+  <nav>
+    <a href="/">Home</a>
+    <a href="/research.html">Research</a>
+    <a href="/art.html">Art</a>
+  </nav>
+
   <div class="sidebar">
     <img src="/assets/profile.jpg" alt="profile">
   </div>
 
-  <div class="main">
-
-    <div class="name">
-      {{ site.title }}
-    </div>
-
-    <div class="sidebar">
-      <img src="/assets/profile.jpg" alt="profile">
-    </div>
-
-    <nav>
-      <a href="/">About</a> |
-      <a href="/research.html">Research</a> |
-      <a href="/art.html">Art</a>
-    </nav>
-
+  <div class="content">
     {{ content }}
-
   </div>
 
 </div>
