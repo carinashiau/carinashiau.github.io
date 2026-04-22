@@ -9,13 +9,17 @@ title: Art
   <div class="gallery-row">
   
     <div class="gallery-item">
-      <img src="/assets/violin-oil.jpg">
-      <p class="subtle">Oil on canvas</p>
+      <div class="image-frame">
+        <img src="/assets/violin-oil.jpg">
+      </div>
+      <p class="caption subtle">Oil on canvas</p>
     </div>
   
     <div class="gallery-item">
-      <img src="/assets/self-portrait-charcoal.jpg">
-      <p class="subtle">Charcoal (in progress)</p>
+      <div class="image-frame">
+        <img src="/assets/self-portrait-charcoal.jpg">
+      </div>
+      <p class="caption subtle">Charcoal (in progress)</p>
     </div>
   
   </div>
