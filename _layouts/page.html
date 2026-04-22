@@ -98,47 +98,30 @@
       text-decoration: underline;
     }
 
-    .art-content {
-      max-width: 500px;
+    .art-page {
+      max-width: 650px;
+      margin: 0 auto;
     }
 
-    .art-page {
+    .art-page img {
       width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .art-page .gallery-item {
+      margin-bottom: 50px;
     }
 
     .art-page .gallery-row {
       display: flex;
-      justify-content: center;
-      gap: 12px;   /* small, controlled spacing */
-      margin-bottom: 40px;
-    }
-
-    .art-page .gallery-grid {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
+      gap: 16px;
       margin-bottom: 50px;
-      max-width: 900px;
-      margin: 0 auto 50px auto;
     }
 
-    .art-page .image-frame {
-      height: 380px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    
-    .art-page .image-frame img {
-      height: 100%;
-      width: auto;
-      object-fit: contain;
-      display: block;
-    }
-
-    .art-page .caption {
-      margin-top: 8px;
-      text-align: center;
+    .art-page .gallery-row .gallery-item {
+      flex: 1;
+      margin-bottom: 0; /* prevents double spacing */
     }
     
   </style>
