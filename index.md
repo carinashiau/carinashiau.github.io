@@ -17,7 +17,7 @@ Feel free to reach out if you’d like to connect!
 - BA in Biological Sciences at Cornell (2017-2021)
 
 ## Honors and Awards
-- Paul & Daisy Soros Fellow
+- [Paul & Daisy Soros Fellow](https://pdsoros.org/fellows/carina-shiau/)
 - Cornell Merrill Presidential Scholar
 - Cornell Tanner Dean's Scholar
 - Cornell Phi Beta Kappa
