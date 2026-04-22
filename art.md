@@ -4,20 +4,16 @@ title: Art
 ---
 
 ## Art
-<div style="margin-bottom: 50px;">
+<div class="gallery-row" style="display: flex; gap: 20px;">
 
-  <div style="display: flex; gap: 30px;">
+  <div style="flex: 1;">
+    <img src="/assets/violin-oil.jpg">
+    <p class="subtle">Oil on canvas</p>
+  </div>
 
-    <div style="width: 50%;">
-      <img src="/assets/violin-oil.jpg" style="width: 100%;">
-      <p class="subtle">Oil on canvas</p>
-    </div>
-
-    <div style="width: 50%;">
-      <img src="/assets/self-portrait-charcoal.jpg" style="width: 100%;">
-      <p class="subtle">Charcoal study (process)</p>
-    </div>
-
+  <div style="flex: 1;">
+    <img src="/assets/self-portrait-charcoal.jpg">
+    <p class="subtle">Charcoal study</p>
   </div>
 
 </div>
