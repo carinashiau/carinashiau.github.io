@@ -36,7 +36,7 @@ title: Art
   <div class="gallery-row">
 
     <div class="gallery-item">
-      <img src="/assets/still-life-acrylic.jpg">
+      <img src="/assets/still-life-acrylic.JPEG">
     </div>
   
     <div class="gallery-item">
@@ -46,7 +46,7 @@ title: Art
   </div>
 
   <div class="gallery-item">
-    <img src="/assets/cloud-gate-oil.jpg">
+    <img src="/assets/cloud-gate-oil.JPEG">
   </div>
 
   <div class="gallery-item">
