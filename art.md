@@ -29,10 +29,6 @@ title: Art
     <img src="/assets/lonely-girl-oil.jpg">
   </div>
 
-  <div class="gallery-item">
-    <img src="/assets/ballerina-oil.jpg">
-  </div>
-
   <div class="gallery-row">
 
     <div class="gallery-item">
@@ -49,12 +45,20 @@ title: Art
     <img src="/assets/cloud-gate-oil.JPEG">
   </div>
 
-  <div class="gallery-item">
-    <img src="/assets/dog-acrylic.jpg">
+  <div class="gallery-row">
+
+    <div class="gallery-item">
+      <img src="/assets/ballerina-oil.jpg">
+    </div>
+  
+    <div class="gallery-item">
+      <img src="/assets/blue-digital.jpg">
+    </div>
+  
   </div>
 
   <div class="gallery-item">
-    <img src="/assets/blue-digital.jpg">
+    <img src="/assets/dog-acrylic.jpg">
   </div>
   
 </div>
