@@ -101,6 +101,10 @@
     .art-page {
       width: 100%;
     }
+    
+    .content:has(.art-page) {
+      max-width: 600px;
+    }
 
     .art-page .gallery-row {
       display: flex;
@@ -114,7 +118,7 @@
       grid-template-columns: repeat(3, 1fr);
       gap: 20px;
       margin-bottom: 50px;
-      max-width: 500px;
+      max-width: 900px;
       margin: 0 auto 50px auto;
     }
 
