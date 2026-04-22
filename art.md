@@ -13,7 +13,7 @@ title: Art
 
   <div class="gallery-item">
     <img src="/assets/self-portrait-charcoal.jpg">
-    <p class="subtle">Charcoal study</p>
+    <p class="subtle">Charcoal (in progress)</p>
   </div>
 
 </div>
