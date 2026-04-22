@@ -3,8 +3,8 @@ layout: page
 title: Research
 ---
 
-## Publications
-<span class="subtle">Selected research (See [Google Scholar](https://scholar.google.com/citations?user=ucq6bocAAAAJ&hl=en) for all publications)</span>
+## Select Publications
+<span class="subtle">See [Google Scholar](https://scholar.google.com/citations?user=ucq6bocAAAAJ&hl=en) for all publications</span>
 
 ### 2026
 #### Trends in Medication Prescriptions for Psoriasis Vulgaris, 2005–2019
