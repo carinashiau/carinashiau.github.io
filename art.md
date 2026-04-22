@@ -24,5 +24,37 @@ title: Art
     </div>
   
   </div>
+
+  <div class="gallery-item">
+    <img src="/assets/lonely-girl-oil.jpg">
+  </div>
+
+  <div class="gallery-item">
+    <img src="/assets/ballerina-oil.jpg">
+  </div>
+
+  <div class="gallery-row">
+
+    <div class="gallery-item">
+      <img src="/assets/still-life-acrylic.jpg">
+    </div>
+  
+    <div class="gallery-item">
+      <img src="/assets/statue-graphite.jpg">
+    </div>
+  
+  </div>
+
+  <div class="gallery-item">
+    <img src="/assets/cloud-gate-oil.jpg">
+  </div>
+
+  <div class="gallery-item">
+    <img src="/assets/dog-acrylic.jpg">
+  </div>
+
+  <div class="gallery-item">
+    <img src="/assets/blue-digital.jpg">
+  </div>
   
 </div>
