@@ -2,6 +2,19 @@
 layout: home
 title: Home
 ---
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/carina-shiau-5aa0bb276/" target="_blank">
+    <i class="fab fa-linkedin"></i>
+  </a>
+
+  <a href="https://scholar.google.com/citations?hl=en&user=ucq6bocAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+    <i class="fas fa-graduation-cap"></i>
+  </a>
+
+  <a href="carina_shiau@hms.harvard.edu">
+    <i class="fas fa-envelope"></i>
+  </a>
+</div>
 
 ## About
 Hello! My name is Carina, and I'm a third-year medical student at Harvard with an interest in computational genomics and cutaneous oncology.
