@@ -4,14 +4,14 @@ title: Art
 ---
 
 ## Art
-<div class="gallery-row" style="display: flex; gap: 20px;">
+<div class="gallery-row">
 
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/assets/violin-oil.jpg">
     <p class="subtle">Oil on canvas</p>
   </div>
 
-  <div style="flex: 1;">
+  <div class="gallery-item">
     <img src="/assets/self-portrait-charcoal.jpg">
     <p class="subtle">Charcoal study</p>
   </div>
