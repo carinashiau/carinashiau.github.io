@@ -12,6 +12,11 @@ Pour Mohammad A, **Shiau C**, Choi R, Shah MM & Bae GH\
 *Journal of the American Academy of Dermatology*, 2026\
 [View paper](https://doi.org/10.1016/j.jaad.2026.02.053)
 
+#### Trends in Medication Prescriptions for Psoriasis Vulgaris, 2005–2019
+**Shiau C**, Pour Mohammad A, Ye H, Le V & Bae GH\
+*Archives of Dermatological Research*, 2026\
+[View paper](https://doi.org/10.1007/s00403-026-04532-8)
+
 #### Distinct Malignant Cell States and Myeloid Glutamate Signaling Associated with Aggressive Pancreatic Neuroendocrine Tumors
 Arbesfeld-Qiu JM, Cho JW, Nguyen PTT, Lester NA, Su J, **Shiau C**, ..., Hemberg M & Hwang WL\
 *Clinical Cancer Research*, 2026\
@@ -21,11 +26,6 @@ Arbesfeld-Qiu JM, Cho JW, Nguyen PTT, Lester NA, Su J, **Shiau C**, ..., Hemberg
 Gong D, Guo JA, Su J, Cetinkaya S, ..., **Shiau C**, ..., Jacks T, Aguirre AA & Hwang WL\
 *Cell Reports*, 2026\
 [View paper](https://doi.org/10.1016/j.celrep.2026.117314)
-
-#### Trends in Medication Prescriptions for Psoriasis Vulgaris, 2005–2019
-**Shiau C**, Pour Mohammad A, Ye H, Le V & Bae GH\
-*Archives of Dermatological Research*, 2026\
-[View paper](https://doi.org/10.1007/s00403-026-04532-8)
 
 ### 2025
 #### Integrative genomic identification of therapeutic targets for pancreatic cancer
