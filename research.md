@@ -17,7 +17,7 @@ Pour Mohammad A, **Shiau C**, Choi R, Shah MM & Bae GH\
 *Archives of Dermatological Research*, 2026\
 [View paper](https://doi.org/10.1007/s00403-026-04532-8)
 
-#### Distinct Malignant Cell States and Myeloid Glutamate Signaling Associated with Aggressive Pancreatic Neuroendocrine Tumors
+#### Distinct malignant cell states and myeloid glutamate signaling associated with aggressive pancreatic neuroendocrine tumors
 Arbesfeld-Qiu JM, Cho JW, Nguyen PTT, Lester NA, Su J, **Shiau C**, ..., Hemberg M & Hwang WL\
 *Clinical Cancer Research*, 2026\
 [View paper](https://doi.org/10.1158/1078-0432.CCR-25-2565)
