@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research
+description: "Publications by Carina Shiau in pancreatic cancer, cutaneous T-cell lymphoma, and dermatology health services, published in Nature Genetics, Cell Reports, and JAAD."
 ---
 
 ## Select Publications
