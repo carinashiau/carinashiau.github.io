@@ -2,6 +2,7 @@
 layout: page
 title: Art
 permalink: /art
+description: "Artwork by Carina Shiau in oil paint, oil pastel, charcoal, and acrylic paint"
 ---
 
 <div class="art-page">
