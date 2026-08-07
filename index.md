@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+description: "Carina Shiau — medical student at Harvard Medical School, researching computational genomics and cutaneous oncology at the Broad Institute, MGH, and Brigham and Women's Hospital."
 ---
 
 ## About
