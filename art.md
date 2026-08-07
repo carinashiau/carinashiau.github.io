@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Art
+permalink: /art
 ---
 
 <div class="art-page">
