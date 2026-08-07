@@ -7,17 +7,17 @@ title: Research
 <span class="subtle">See [Google Scholar](https://scholar.google.com/citations?user=ucq6bocAAAAJ&hl=en) for all publications</span>
 
 ### 2026
-#### Shifts in procedural dermatology: increasing role of PAs and NPs across lesion sizes and repairs -- 2007-2023 MarketScan claims analysis
-Pour Mohammad A, **Shiau C**, Choi R, Shah MM & Bae GH\
-*Journal of the American Academy of Dermatology*, 2026\
-[View paper](https://doi.org/10.1016/j.jaad.2026.02.053)
-
 #### Trends in dermatology use of digital health modalities among Medicare beneficiaries, 2017–2023
 Le V, **Shiau C**, Pour Mohammad A, Ko J & Bae GH\
 *Journal of the American Academy of Dermatology*, 2026\
 [View paper](https://doi.org/10.1016/j.jaad.2026.05.007)
 
-#### Trends in Medication Prescriptions for Psoriasis Vulgaris, 2005–2019
+#### Shifts in procedural dermatology: increasing role of PAs and NPs across lesion sizes and repairs -- 2007-2023 MarketScan claims analysis
+Pour Mohammad A, **Shiau C**, Choi R, Shah MM & Bae GH\
+*Journal of the American Academy of Dermatology*, 2026\
+[View paper](https://doi.org/10.1016/j.jaad.2026.02.053)
+
+#### Trends in medication prescriptions for psoriasis vulgaris, 2005–2019
 **Shiau C**, Pour Mohammad A, Ye H, Le V & Bae GH\
 *Archives of Dermatological Research*, 2026\
 [View paper](https://doi.org/10.1007/s00403-026-04532-8)
