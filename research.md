@@ -12,24 +12,29 @@ Pour Mohammad A, **Shiau C**, Choi R, Shah MM & Bae GH\
 *Journal of the American Academy of Dermatology*, 2026\
 [View paper](https://doi.org/10.1016/j.jaad.2026.02.053)
 
+#### Trends in dermatology use of digital health modalities among Medicare beneficiaries, 2017–2023
+Le V, **Shiau C**, Pour Mohammad A, Ko J & Bae GH\
+*Journal of the American Academy of Dermatology*, 2026\
+[View paper](https://doi.org/10.1016/j.jaad.2026.05.007)
+
 #### Trends in Medication Prescriptions for Psoriasis Vulgaris, 2005–2019
 **Shiau C**, Pour Mohammad A, Ye H, Le V & Bae GH\
 *Archives of Dermatological Research*, 2026\
 [View paper](https://doi.org/10.1007/s00403-026-04532-8)
 
 #### Distinct malignant cell states and myeloid glutamate signaling associated with aggressive pancreatic neuroendocrine tumors
-Arbesfeld-Qiu JM, Cho JW, Nguyen PTT, Lester NA, Su J, **Shiau C**, ..., Hemberg M & Hwang WL\
+Arbesfeld-Qiu JM, Cho JW, Nguyen PTT, Lester NA, Su J, **Shiau C**, ... Hemberg M & Hwang WL\
 *Clinical Cancer Research*, 2026\
 [View paper](https://doi.org/10.1158/1078-0432.CCR-25-2565)
 
 #### GLIS3 marks a neural-like progenitor cell state that drives metastasis in pancreatic ductal adenocarcinoma
-Gong D, Guo JA, Su J, Cetinkaya S, ..., **Shiau C**, ..., Jacks T, Aguirre AA & Hwang WL\
+Gong D, Guo JA, Su J, Cetinkaya S, ... **Shiau C**, ... Jacks T, Aguirre AA & Hwang WL\
 *Cell Reports*, 2026\
 [View paper](https://doi.org/10.1016/j.celrep.2026.117314)
 
 ### 2025
 #### Integrative genomic identification of therapeutic targets for pancreatic cancer
-Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ..., Hwang WL & Aguirre AJ\
+Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ... Hwang WL & Aguirre AJ\
 *Cell Reports*, 2025\
 [View paper](https://doi.org/10.1016/j.celrep.2025.116191)
 
@@ -40,7 +45,7 @@ Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ..., Hwang WL & 
 
 ### 2024
 #### Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment
-**Shiau C**, Cao J, Gong D, Gregory MT, ..., Hemberg M & Hwang WL\
+**Shiau C**, Cao J, Gong D, Gregory MT, ... Hemberg M & Hwang WL\
 *Nature Genetics*, 2024\
 [View paper](https://doi.org/10.1038/s41588-024-01890-9)
 
@@ -61,12 +66,12 @@ Guo JA, Gong D, Evans K, Takahashi A, Jambhale AD, **Shiau C**, ..., Hwang WL & 
 
 ### 2023
 #### Co-evolution-based prediction of metal-binding sites in proteomes by machine learning
-Cheng Y, Wang H, Xu H, Liu Y, ..., **Shiau C**, Ovchinnikov S, Su XD & Wang C\
+Cheng Y, Wang H, Xu H, Liu Y, ... **Shiau C**, Ovchinnikov S, Su XD & Wang C\
 *Nature Chemical Biology*, 2023\
 [View paper](https://doi.org/10.1038/s41589-022-01223-z)
 
 #### Cell-autonomous Cxcl1 sustains tolerogenic circuitries and stromal inflammation via neutrophil-derived TNF in pancreatic cancer
-Bianchi A, Silva I, Deshpande NU, Singh S, ..., **Shiau C**, ..., Datta J\
+Bianchi A, Silva I, Deshpande NU, Singh S, ... **Shiau C**, ... Datta J\
 *Cancer Discovery*, 2023\
 [View paper](https://doi.org/10.1158/2159-8290.CD-22-1046)
 
@@ -77,7 +82,7 @@ Bianchi A, Silva I, Deshpande NU, Singh S, ..., **Shiau C**, ..., Datta J\
 [View paper](https://doi.org/10.3389/fonc.2022.929950)
 
 #### Single-nucleus and spatial transcriptome profiling of pancreatic cancer identifies multicellular dynamics associated with neoadjuvant treatment
-Hwang WL, Jagadeesh KA, Guo JA, Hoffman HI, ..., **Shiau C**, ..., Jacks T & Regev A\
+Hwang WL, Jagadeesh KA, Guo JA, Hoffman HI, ... **Shiau C**, ... Jacks T & Regev A\
 *Nature Genetics*, 2022\
 [View paper](https://doi.org/10.1038/s41588-022-01134-8)
 
